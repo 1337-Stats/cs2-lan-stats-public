@@ -1,2 +1,3 @@
-matchid,start_time,mapname,name,kills,deaths,result
-1,2026-07-15 19:45:48,de_dust2,Exorar,0,1,WIN
+matchid,start_time,end_time,winner,series_type,team1_name,team1_score,team2_name,team2_score,server_ip,mapnumber,mapname,steamid64,team,name,kills,deaths,damage,assists,enemy5ks,enemy4ks,enemy3ks,enemy2ks,utility_count,utility_damage,utility_successes,utility_enemies,flash_count,flash_successes,health_points_removed_total,health_points_dealt_total,shots_fired_total,shots_on_target_total,v1_count,v1_wins,v2_count,v2_wins,entry_count,entry_wins,equipment_value,money_saved,kill_reward,live_time,head_shot_kills,cash_earned,enemies_flashed,result
+1,2026-07-13 19:54:31,,,BO1,team_Exorar,0,TERRORISTS,1,-,0,de_nuke,76561198011109384,team_Exorar,Exorar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,LOSS
+4,2026-07-15 19:45:48,2026-07-15 20:06:44,team_Exorar,BO1,COUNTER-TERRORISTS,0,team_Exorar,13,-,0,de_dust2,76561198011109384,team_Exorar,Exorar,0,1,0,0,0,0,0,0,7,0,0,0,9,0,0,0,20,0,0,0,0,0,0,0,30000,0,0,842,0,45600,0,WIN
